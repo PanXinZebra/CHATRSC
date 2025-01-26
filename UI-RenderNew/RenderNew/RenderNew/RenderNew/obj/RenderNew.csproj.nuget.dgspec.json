@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "K:\\sam\\RenderNew\\RenderNew\\RenderNew\\RenderNew.csproj": {}
+  },
+  "projects": {
+    "K:\\sam\\RenderNew\\RenderNew\\RenderNew\\RenderNew.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "K:\\sam\\RenderNew\\RenderNew\\RenderNew\\RenderNew.csproj",
+        "projectName": "RenderNew",
+        "projectPath": "K:\\sam\\RenderNew\\RenderNew\\RenderNew\\RenderNew.csproj",
+        "packagesPath": "C:\\Users\\panxinpower\\.nuget\\packages\\",
+        "outputPath": "K:\\sam\\RenderNew\\RenderNew\\RenderNew\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\panxinpower\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\panxinpower\\AppData\\Local\\Esri\\NuGet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "CefSharp.WinForms": {
+              "target": "Package",
+              "version": "[119.4.30, )"
+            },
+            "NetMQ": {
+              "target": "Package",
+              "version": "[4.0.1.13, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[112.1.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
